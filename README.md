@@ -2,6 +2,13 @@
 
 Esse projeto foi criado a partir das aulas do módulo de React do curso Gama Academy no programa Hiring Coders #2. A aplicação busca e lista os repositórios do github referente ao nome de usuário pesquisado. A partir da lista exibida é possível acessar o repositório desejado.
 
+## :rocket: Tecnologias
+
+-  [Node.js](https://nodejs.org/en/)
+-  [ReactJS](https://reactjs.org/)
+-  [Styled Components](https://styled-components.com/)
+-  [Axios](https://axios-http.com/)
+
 ## Informações importantes
 
 ### **Pré-requisitos**
