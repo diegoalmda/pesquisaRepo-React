@@ -8,6 +8,7 @@ Esse projeto foi criado a partir das aulas do módulo de React do curso Gama Aca
 -  [ReactJS](https://reactjs.org/)
 -  [Styled Components](https://styled-components.com/)
 -  [Axios](https://axios-http.com/)
+-  LocalStorage
 
 ## Informações importantes
 
